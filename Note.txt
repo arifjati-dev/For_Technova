@@ -1,0 +1,15 @@
+database berada di foder -> task -> database
+
+User yang bisa di akses
+
+Role : ADMINISTRATOR
+ID/Email : administrator@gmail.com
+Password : 123456
+
+Role : EMPLOYEE
+ID/Email : abc@gmail.com
+Password : 123456
+
+Role : EMPLOYEE
+ID/Email : qwer@gmail.com
+Password : 123456
